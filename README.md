@@ -5,7 +5,11 @@ The Fibonacci sequence is present throughout the natural world. Most programmers
 
 By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
 
-Getting Started
+## Getting Started
 
 The architecture to your even Fibonacci calculator can be anything you like but we’d suggest passing in a single integer to represent the length to begin with. Feel free to use any language, and write the tests in any order you prefer.
 In this implementation we have used CSharp programming language to achieve the goal in hand.
+
+## Solution Structure
+
+The solution lives in the The_Even_Fibonacci_Sum_Calculator folder of this project. Compile and excute. Enjoy!
