@@ -12,4 +12,4 @@ In this implementation we have used CSharp programming language to achieve the g
 
 ## Solution Structure
 
-The solution lives in the The_Even_Fibonacci_Sum_Calculator folder of this project. Compile and excute. Enjoy!
+The solution lives in the The_Even_Fibonacci_Sum_Calculator folder of this project. Just compile and excute. Enjoy!
